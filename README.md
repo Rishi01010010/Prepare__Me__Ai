@@ -127,4 +127,4 @@ Enhance the project with these ideas:
 
 ## 📌 Links
 - **Snapshots of MVP:** https://drive.google.com/drive/folders/1j31nXWLG_5i_pv-MWMU_HTOWHp3Lw12usp=shanina](https://drive.google.com/drive/folders/1j31nXWtG_5j_pv-ZM9VMD_HToWHp3Lwf
-- **Demo Video:** [https://drive.google.com/file/d/1CPmi82a_X&sikHHh9OsvDcNE59GG8-T5/view?usp=drive_link](https://youtu.be/iTnQm49VIDg](https://youtu.be/iTnQm49VIDg)
+- **Demo Video:** https://youtu.be/iTnQm49VIDg
